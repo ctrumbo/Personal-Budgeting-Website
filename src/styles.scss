@@ -1,1 +1,70 @@
 /* You can add global styles to this file, and also import other style files */
+div.hero {
+  height: 350px;
+  //background-color: aquamarine;
+  background-size: cover;
+  padding-left: 0%;
+  background-image: url("/assets/Budgeting.png");
+  position: relative;
+  background-repeat: no-repeat;
+  background-size: 400px;
+  background-position: center center;
+}
+
+div.section {
+  margin: 0 -50rem;
+  padding: .25rem 1.5rem;
+  background: #2ecc71;
+  border-left:100% solid #2ecc71;
+  border-right: 100% solid #2ecc71;
+  border-bottom: 100px solid #2ecc71;
+  color: #ecf0f1;
+  font-size: 1.125rem;
+}
+
+.hero-image {
+  height: 500px;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: auto;
+  position: relative;
+ }
+
+ ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 10px;
+  overflow: hidden;
+  background-color: rgb(240, 240, 240);
+}
+
+li {
+  float: left;
+}
+
+li a {
+  display: block;
+  color: rgb(53, 53, 53);
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+li a:hover {
+  background-color: rgb(184, 243, 194);
+}
+
+.button1 {
+  background-color:rgb(184, 243, 194);
+  border-radius: 10px;
+  color: white;
+  text-align: center;
+  display: inline-block;
+  margin: 2px 4px;
+  font-size: 25px;
+  border-color: rgb(184, 243, 194);
+}
+
+.center {
+  left: 50%
+}
