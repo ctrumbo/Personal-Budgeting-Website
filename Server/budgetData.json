@@ -1,0 +1,33 @@
+{
+    "myBudget": [
+        {
+            "title" : "Eat out",
+            "budget": 30
+        },
+        {
+            "title": "rent",
+            "budget": 350
+        },
+        {
+            "title": "groceries",
+            "budget": 90
+        },
+        {
+            "title": "charity",
+            "budget": 15
+        },
+        {
+            "title": "dog food",
+            "budget": "40"
+        },
+        {
+            "title": "video games",
+            "budget": "60"
+        },
+        {
+            "title": "excess money",
+            "budget": "30"
+        }
+    ]
+    
+}

@@ -1,0 +1,19 @@
+{
+    "datasets": {
+      "data": [
+        30,
+        40
+      ],
+      "backgroundColor": [
+        "ffcd56",
+        "#ff6384"
+      ]
+    },
+    "labels": [
+      "Eat out",
+      "rent"
+    ]
+
+
+
+}
